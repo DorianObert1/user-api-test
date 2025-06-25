@@ -1,0 +1,8 @@
+Pour lancer le projet, vous devez :
+
+1. Lancer le docker-compose avec la commande : docker-compose up -d
+2. Lancer src/main/java/com.dorian.userapitest/UserApiTestApplication.java
+Ceci va lancer l'application sur le port 8080.
+
+Pour les tests, vous devez :
+1. Lancer src/test/java/com.dorian.userapitest/UserApiTest.java
