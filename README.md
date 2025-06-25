@@ -6,7 +6,9 @@ Pour lancer le projet, vous devez :
    ```bash
    docker-compose up -d
    ```
-   
+
+Ceci permet de créer un conteneur pour créer la base de données automatiquement.
+
 3. Lancer
    ```bash
    src/main/java/com.dorian.userapitest/UserApiTestApplication.java
